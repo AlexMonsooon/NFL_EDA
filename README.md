@@ -1,0 +1,1 @@
+EDA for NFL data, looks at individual graphs for discrete, continous, and categorical variables, correlation between numerical vars, correlation between categorical vars, pairplots, and numerical and categorical vars against the target
